@@ -1,0 +1,10 @@
+/.vscode
+/node_modules
+/public
+
+.DS_Store
+.env
+docker-compose.yml
+jwtRSA256-private.pem
+jwtRSA256-public.pem
+package-lock.json

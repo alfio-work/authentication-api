@@ -1,0 +1,10 @@
+/.vscode
+/node_modules
+/public
+
+.DS_Store
+.dockerignore
+.git
+.gitignore
+jwtRSA256-public.pem
+jwtRSA256-private.pem
